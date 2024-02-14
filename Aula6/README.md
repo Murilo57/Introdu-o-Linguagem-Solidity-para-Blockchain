@@ -54,3 +54,5 @@ uint balance[10];
         uint book_id;
     }
 ```
+
+- Para acessar uma propriedade em uma struct, basta utilizar o operador "." entre o nome da struct ea propriedade
